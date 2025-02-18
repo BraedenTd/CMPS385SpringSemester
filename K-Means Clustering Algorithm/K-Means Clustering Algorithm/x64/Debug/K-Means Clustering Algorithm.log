@@ -1,0 +1,4 @@
+﻿  K-Means Clustering Algorithm.cpp
+C:\Users\beast\source\repos\K-Means Clustering Algorithm\K-Means Clustering Algorithm\K-Means Clustering Algorithm.cpp(35,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\beast\source\repos\K-Means Clustering Algorithm\K-Means Clustering Algorithm\K-Means Clustering Algorithm.cpp(46,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  K-Means Clustering Algorithm.vcxproj -> C:\Users\beast\source\repos\K-Means Clustering Algorithm\x64\Debug\K-Means Clustering Algorithm.exe
